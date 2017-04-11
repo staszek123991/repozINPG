@@ -1,5 +1,4 @@
-//Drzewo BSTdklsmfeadslf,'aedls
-//Rafal Gawlik
+bnjsa bdhkcja;flmsdbhjaklkjdfs,alfkj//Rafal Gawlik
 //www.algorytm.org
  
 #include <stdio.h>
@@ -14,7 +13,7 @@ struct wezel *rodzic;  //wskaznik na rodzica
 struct wezel *l_syn;   //wskaznik na lewe dziecko
 struct wezel *p_syn;   //wskaznik na prawe dziecko
 };
-struct wezel *root;  //wskaünik na root'a
+struct wezel *root;  //wska≈∫nik na root'a
  
 //funkcja zwraca wskaznik elementu o najmniejszej wartosci (najbardziej na lewo)
 struct wezel* naj_lewo(struct wezel *start)
@@ -187,7 +186,7 @@ if(a < b)
 return a + (int)((b-a+1.0)*(rand()/(RAND_MAX+1.0)));
 else
 {
-fprintf(stderr, "z≥e wartoúci");
+fprintf(stderr, "z≈Çe warto≈õci");
 return -1;
 }
 }
@@ -218,7 +217,7 @@ printf("\n");
 in_order_tree_walk(root);
  
 //usun wartosc z drzewa
-printf("WartoúÊ wÍz≥a do usuniÍcia: \n");
+printf("Warto≈õƒá wƒôz≈Ça do usuniƒôcia: \n");
 scanf("%d", &k);
 kasowanie(szukaj(root,k));
 printf("\n\n");
