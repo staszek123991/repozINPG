@@ -3,7 +3,7 @@
   #include <conio.h>
      
 using namespace std;
- 
+ zmiana w Branch-master
 double pobierz(int liczba){
        while(!(cin>>liczba)){
             cout << "Podaj poprawna wartosc: ";
