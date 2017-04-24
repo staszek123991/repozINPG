@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <conio.h>
 using namespace std;
- 
+ zmiana w Branch-master
  int pobierz(unsigned int liczba){
            if(liczba>1000)
            {
