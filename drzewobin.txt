@@ -1,4 +1,4 @@
-bnjsa bdhkcja;flmsdbhjaklkjdfs,alfkj//Rafal Gawlik
+﻿bnjsa bdhkcja;flmsdbhjaklkjdfs,alfkj//Rafal Gawlik zmiana w Branch-master
 //www.algorytm.org
  
 #include <stdio.h>
