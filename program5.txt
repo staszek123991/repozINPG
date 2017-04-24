@@ -3,7 +3,7 @@
 using namespace std; 
  
 int main() 
-{ 
+{ zmiana w Branch-master
     cout << "Witaj w programie PIANO. kliknij jakas liczbe od 1 do 10, aby ustawiæ interwal.\n"; 
     cout << "'q' konczy program\n"; 
      
