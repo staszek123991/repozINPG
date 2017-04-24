@@ -4,7 +4,7 @@
 using namespace std;
  
 int main()
-{
+{zmiana w Branch-master
     int liczba1, liczba2, pierwiastek1, pierwiastek2;
     cout << "Podaj pierwsza liczbe: ";
     cin >> liczba1;
