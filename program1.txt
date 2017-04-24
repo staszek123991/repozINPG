@@ -1,6 +1,6 @@
-﻿bnjsa bdhkcja;flmsdbhjaklkjdfs,alfkj//Rafal Gawlik zmiana w Branch-master
+﻿bnjsa bdhkcja;flmsdbhjaklkjdfs,alfkj//Rafal Gawlik
 //www.algorytm.org
- 
+zmiana 10 w new-branch 
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
