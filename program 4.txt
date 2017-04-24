@@ -2,7 +2,7 @@
  
 int main()
 {
- 
+zmiana w Branch-master 
     using namespace std;
 int waga, wzrost;
 float bmi;
